@@ -9,8 +9,8 @@ This project aims to predict the survival of tongue cancer patients using machin
 - Oladimeji Williams (Project Lead)
 - Aramide Adebesin (Assistant Project Lead)
 - Confidence Chinelo (Project Query Analyst)
-- Ayomide Adelakin
-- Okemutie Soten
+- Oluwaseun Ogundeko
+- Deborah Popoola
 
 ## Project Description
 
@@ -30,7 +30,7 @@ The project repository can be found [here](https://zenodo.org/record/7450476/fil
 
 ## Deployment
 
-The project is deployed using [Streamlit](https://streamlit.io/), a Python library for building interactive web applications. The deployed application allows users to input the required attributes and obtain predictions for the survival outcome of tongue cancer patients.
+The project is deployed using [Streamlit](https://tonguecancer.streamlit.app/), a Python library for building interactive web applications. The deployed application allows users to input the required attributes and obtain predictions for the survival outcome of tongue cancer patients.
 
 To run the application locally, follow these steps:
 
