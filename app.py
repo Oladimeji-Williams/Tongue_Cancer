@@ -33,7 +33,7 @@ def main():
 
     st.markdown(
         '`Created by` Team Python | 2023 | \
-            `Code:` [GitHub](https://github.com/Oladimeji-Williams/HamoyeDataScienceCohort/blob/main/HDSCSpring23/premier_project/team_python/README.md)'
+            `Code:` [GitHub](https://github.com/Oladimeji-Williams/Tongue_Cancer/blob/main/README.md)'
     )
 
 if __name__ == "__main__":
