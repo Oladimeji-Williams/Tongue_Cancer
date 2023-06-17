@@ -28,7 +28,7 @@ def predict(features):
     ensembled_model = joblib.load(model_path)
     result = ensembled_model.predict(features)
 
-    if result == 0:
+    if result == 1:
         return "Death"
     else:
         return "Survival"
