@@ -11,6 +11,14 @@ This project aims to predict the survival of tongue cancer patients using machin
 - Confidence Chinelo (Project Query Analyst)
 - Oluwaseun Ogundeko
 - Deborah Popoola
+- Isibor Blessing
+- Harshit Khandelwal
+- Akinyemi Akeem
+- John Afariogun
+- Aayush Pandey
+- Hema Kokku
+- Sangotade Idowu
+- Opeyemi Owuye
 
 ## Project Description
 
