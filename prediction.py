@@ -24,7 +24,7 @@ def predict(features):
     # Convert features to float
     features = features.astype(float)
 
-    model_path = os.path.join(os.path.dirname(__file__), "ensemble_model4.sav")
+    model_path = os.path.join(os.path.dirname(__file__), "ensemble_model2.sav")
     ensembled_model = joblib.load(model_path)
     result = ensembled_model.predict(features)
 
