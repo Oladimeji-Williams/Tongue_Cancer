@@ -33,8 +33,8 @@ The project repository can be found [here](https://zenodo.org/record/7450476/fil
 ## Supporting Visualizations and Materials
 
 - The supporting visualizations for this project can be accessed on [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDJiYjVlYzQtM2QyNS00ZTE5LTg4MDMtOGM3ZWEyMzlmZTZjIiwidCI6IjU0NjJmMDc4LWFiYTgtNDE1OS05MWYwLWVhODg1MmJjOTU4NCJ9).
-- The presentation deck for the project is hosted on [Canva](https://www.canva.com/design/DAFJ9cXZSTM/w4seT4KLSbzOLsHxh3VfKg/view?utm_content=DAFJ9cXZSTM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
-- The detailed report on this project can be found on [Google Docs](https://docs.google.com/document/d/your_document_id).
+  - The presentation deck for the project is hosted on [Google Slides](https://docs.google.com/presentation/d/1La09J2KCr4_CrKrpAwL1rEPHHECyh_6R/edit?usp=sharing&ouid=115275109673336716857&rtpof=true&sd=true).
+- The detailed report on this project can be found on [Google Docs](https://docs.google.com/document/d/1cdDtPMrdK7mvylT8GQ7FhC7igPEk0gAQsptVxLop_5o/edit?usp=sharing).
 
 ## Deployment
 
